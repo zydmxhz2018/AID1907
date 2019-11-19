@@ -38,3 +38,8 @@ print(cur.fetchall())
 # 关闭游标和数据库链接
 cur.close()
 db.close()
+
+
+#123
+
+
